@@ -9,4 +9,4 @@
 - [Lesson 4.1 Многопоточные коллекции (Колл центр)](https://github.com/AlexandrFl/call_center)
 - [Lesson 4.2 Многопоточные коллекции (Разница в производительности)](https://github.com/AlexandrFl/MapAnalysis)
 - [Lesson 5.1 Ряд Фибоначчи](https://github.com/AlexandrFl/FibonacciNumber)
-- [Курсовой проект "Сетевой чат"](https://github.com/AlexandrFl/Chat-Server-Client)
+
